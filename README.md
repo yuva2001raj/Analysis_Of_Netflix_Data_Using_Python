@@ -34,7 +34,8 @@ The project follows a data analysis pipeline:
    * Explore content production trends over time.
 
 4. **Sentiment Analysis:**
-   * Analyze the sentiment of content descriptions using the TextBlob library.
+   * Use TextBlob to calculate sentiment polarity and subjectivity for each description.
+   * Polarity ranges from -1 (negative) to 1 (positive), while subjectivity measures the degree of personal opinion.
    * Determine the overall sentiment polarity of Netflix content.
 
 ### **Results and Insights**
